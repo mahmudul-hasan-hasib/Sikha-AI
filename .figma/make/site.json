@@ -1,0 +1,10 @@
+{
+  "description": "Delivers AI-powered fire safety insights and simulations for spacecraft habitats using NASA microgravity combustion data to support engineers and researchers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
